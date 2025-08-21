@@ -424,7 +424,7 @@ hr {
 
 .product-card button {
   background: #28a745;
-  color: white;
+  color: rgb(14, 6, 6);
   padding: 10px;
   border: none;
   border-radius: 5px;
@@ -443,7 +443,7 @@ hr {
 
 /* Profile icon */
 .profile-icon {
-  color: #fff;
+  color: #100a0a;
   cursor: pointer;
   transition: transform 0.2s ease-in-out;
 }
